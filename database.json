@@ -1,0 +1,78 @@
+{
+    "pets": [
+      {
+        "nome": "Garfield",
+        "tipo": "gato",
+        "idade": 5,
+        "raca": "persa",
+        "peso": 3,
+        "tutor": "jon",
+        "contato": "(81) 4002-8922",
+        "Vacinado": false,
+        "servicos": [
+          {
+            "tipoServico": "banho",
+            "dataServico": "26-03-2021"
+          }
+        ]
+      },
+      {
+        "nome": "Lulu",
+        "tipo": "cachorro",
+        "idade": 3,
+        "raca": "vira-lata",
+        "peso": 5,
+        "tutor": "Maria",
+        "contato": "(81) 4002-8922",
+        "Vacinado": true,
+        "servicos": [
+          {
+            "tipoServico": "banho",
+            "dataServico": "26-03-2021"
+          },
+          {
+            "tipoServico": "tosa",
+            "dataServico": "26-03-2021"
+          }
+        ]
+      },
+      {
+        "nome": "Luna",
+        "tipo": "gato",
+        "idade": 1,
+        "raca": "persa",
+        "peso": 2,
+        "tutor": "Ana",
+        "contato": "(81) 4002-8922",
+        "Vacinado": false,
+        "servicos": [
+          {
+            "tipoServico": "banho",
+            "dataServico": "26-03-2021"
+          }
+        ]
+      },
+      {
+        "nome": "star",
+        "tipo": "cachorro",
+        "idade": 5,
+        "raca": "bulldog",
+        "peso": 10,
+        "tutor": "Nanda",
+        "contato": "(81) 4002-8922",
+        "Vacinado": true,
+        "servicos": []
+      },
+      {
+        "nome": "Draco",
+        "tipo": "gato",
+        "idade": 5,
+        "raca": "Turkish Van",
+        "peso": 10,
+        "tutor": "Ana Maria",
+        "contato": "(11) 2233-4455",
+        "Vacinado": true,
+        "servicos": []
+      }
+    ]
+  }
